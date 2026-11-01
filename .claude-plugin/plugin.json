@@ -1,0 +1,9 @@
+{
+  "name": "safe-migrations",
+  "version": "0.1.0",
+  "description": "Zero-downtime database migrations for coding agents, plus a guard that stops them from wiping your database.",
+  "author": { "name": "nuttakulsv" },
+  "homepage": "https://github.com/nuttakulsv/safe-migrations",
+  "license": "MIT",
+  "keywords": ["database", "migrations", "postgres", "mysql", "zero-downtime", "prisma", "rails", "django"]
+}

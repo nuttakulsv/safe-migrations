@@ -1,0 +1,11 @@
+{
+  "name": "safe-migrations",
+  "owner": { "name": "nuttakulsv" },
+  "plugins": [
+    {
+      "name": "safe-migrations",
+      "source": "./",
+      "description": "Zero-downtime database migrations for coding agents, plus a guard that stops them from wiping your database."
+    }
+  ]
+}
